@@ -15,7 +15,6 @@ route.get(
   })
 )
 
-
 // @desc FETCH SINGLE PRODUCTS
 // @route GET /api/products/:id
 // @access PUBLIC
